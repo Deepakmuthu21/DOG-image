@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(6, 19, 34);
+}
+.head{
+    text-align: center ;
+
+}
+.heading,
+.description{
+
+    background-color: rgb(255, 236, 70);
+    padding: 25px;
+
+}
+.image{
+    display: flex;
+    align-items: center;
+}
+#btn{
+    text-align: center ;
+}
+.btn{
+    margin: 20px;
+    font-size: 20px;
+}
